@@ -79,7 +79,7 @@ cd projeto-curso-git
 Caso tenha sugestões, dúvidas ou queira trocar ideias, fique à vontade para entrar em contato!
 
 📧 **Saulo Prado**  
-🔗 [LinkedIn](https://www.linkedin.com/in/sauloprado)
+🔗 [LinkedIn](https://www.linkedin.com/in/saulo-prado-ab4a0b96/)
 
 ---
 
