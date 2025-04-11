@@ -1,5 +1,3 @@
-<!-- Pequena alteração para forçar atualização -->
-
 # 📌 Projeto Curso Git
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/sauloprado/projeto-curso-git?style=social)
@@ -16,7 +14,7 @@ Este repositório foi criado como parte do curso de **Git e GitHub**. O objetivo
 - 📌 Clonagem e criação de repositórios
 - 🌿 Uso de branches e merges
 - 🔄 Controle de commits
-- 🔗 Trabalhando com GitHub
+- 🔗 Trabalhar com GitHub de forma eficiente
 
 ---
 
@@ -33,9 +31,56 @@ Este repositório foi criado como parte do curso de **Git e GitHub**. O objetivo
 
 ```bash
 📂 projeto-curso-git
- ├── 📄 index.html   # Página inicial do projeto
- ├── 📄 contato.html # Página de contato
- ├── 📂 assets       # Diretório de imagens e arquivos
- ├── 📜 README.md    # Documentação do projeto
- ├── 🎨 styles.css   # Arquivo de estilos CSS
- ├── 🔧 .gitignore   # Arquivo para ignorar diretórios específicos no Git
+ ├── 📄 index.html       # Página inicial do projeto
+ ├── 📄 contato.html     # Página de contato
+ ├── 📂 assets           # Imagens e recursos visuais
+ ├── 🎨 styles.css       # Estilos da aplicação
+ ├── 📜 README.md        # Documentação do projeto
+ ├── 🔧 .gitignore       # Arquivo de exclusão de diretórios
+```
+
+---
+
+## 🛠️ Funcionalidades
+
+- 📁 Organização clara dos arquivos
+- 💡 Documentação para facilitar o uso e entendimento
+- 🎓 Projeto didático voltado ao aprendizado de Git e GitHub
+- 🔁 Suporte a versionamento completo de arquivos
+
+---
+
+## 📘 Como Utilizar
+
+1. 📥 Clone este repositório em sua máquina:
+```bash
+git clone https://github.com/sauloprado/projeto-curso-git.git
+```
+
+2. 🧭 Navegue até a pasta do projeto:
+```bash
+cd projeto-curso-git
+```
+
+3. 🌐 Abra o `index.html` em seu navegador ou edite os arquivos no editor de sua preferência.
+
+---
+
+## 💻 Requisitos Técnicos
+
+- Git instalado
+- Editor de código (Visual Studio Code recomendado)
+- Navegador moderno para testes locais
+
+---
+
+## 🤝 Contato
+
+Caso tenha sugestões, dúvidas ou queira trocar ideias, fique à vontade para entrar em contato!
+
+📧 **Saulo Prado**  
+🔗 [LinkedIn](https://www.linkedin.com/in/sauloprado)
+
+---
+
+Feito com 🤍 e dedicação para fins educacionais. Aprender nunca sai de moda!
